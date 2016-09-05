@@ -47,6 +47,7 @@ class PostsUpdate extends React.Component {
             <Field fieldName='name'/>
             <Field fieldName='age'/>
           </Field>
+          <Field fieldName='foobar'/>
         </Form>
         <br/>
         <div>
